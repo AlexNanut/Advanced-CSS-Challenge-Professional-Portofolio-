@@ -13,6 +13,8 @@
 I have created my first portofolio to showcase my abilities. My projects are yet to come.
 The page has links to my GitHub profile, an About Me section, a Projects section, a Services section and a Contact Me section. 
 
+Below is the link to the deployed application: 
+
 # Built With
 
 To built this page I applied the core skills I recently learned, from HTML syntax to CSS variables, flexbox and media queries. 
