@@ -15,6 +15,8 @@ The page has links to my GitHub profile, an About Me section, a Projects section
 
 Below is the link to the deployed application: 
 
+https://alexnanut.github.io/Professional-Portofolio/
+
 # Built With
 
 To built this page I applied the core skills I recently learned, from HTML syntax to CSS variables, flexbox and media queries. 
